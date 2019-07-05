@@ -2,8 +2,8 @@
 //import * as request from 'request'
 //import * as readline from 'readline'
 
-const request = require('request')
-const readline = require('readline')
+const request = require('request') //import request
+const readline = require('readline') //import readline
 
 const rl = readline.createInterface({input: process.stdin, output: process.stdout})
 
